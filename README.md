@@ -16,6 +16,7 @@ JISOONLEE
 + UI
 + Design Dialogflow
 + AWS Server
++ Design MongoDB
 + Create MongoDB Data Using Crawling
 
 Ji-Min Jeong
