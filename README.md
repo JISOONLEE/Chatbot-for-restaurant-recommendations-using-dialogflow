@@ -1,4 +1,6 @@
 # Chatbot-for-restaurant-recommendations-using-dialogflow
+[한이음 프로젝트] AI기반 챗봇 맛집 추천 서비스
+
 
 ### 프로젝트 소개
 AI 엔진인 Google Dialogflow를 사용해 맛집 추천 서비스를 챗봇으로 개발한다.
