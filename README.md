@@ -16,4 +16,20 @@ JISOONLEE
 + Create MongoDB Data Using Crawing
 
 Ji-Min Jeong
-+ 
++ Design and Build Spring Boot MVC Rest API
++ Getting/Seding Data by Ajax in Spring Boot
++ Getting/Seding Data with Dialogflow in Spring Boot
++ Access MongoDB from Spring Boot Using JPA
+
+HongHong0715
++ Design Dialogflow
++ Create Dialogflow Data
+
+Kim Hyo Rin
++ Session
++ Design Dialogflow
++ Create Dialogflow Data
+
+Park Ha Yeon
++ Session
++ Access MongoDB from Spring Boot Application
