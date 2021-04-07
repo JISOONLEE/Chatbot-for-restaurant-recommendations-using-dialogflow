@@ -13,7 +13,7 @@ AI 엔진인 Google Dialogflow를 사용해 맛집 추천 서비스를 챗봇으
 JISOONLEE
 + UI
 + AWS Server
-+ Create MongoDB Data Using Crawing
++ Create MongoDB Data Using Crawling
 
 Ji-Min Jeong
 + Design and Build Spring Boot MVC Rest API
