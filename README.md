@@ -9,9 +9,11 @@ AI 엔진인 Google Dialogflow를 사용해 맛집 추천 서비스를 챗봇으
 ### 실행
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/46081043/113813497-fb394100-97aa-11eb-8761-89aaa18c729d.gif)
 
-### 개발언어
-+ java
-+ javascript
-+ python
-
 ### 역할
+JISOONLEE
++ UI
++ AWS Server
++ Create MongoDB Data Using Crawing
+
+Ji-Min Jeong
++ 
