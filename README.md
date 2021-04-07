@@ -14,6 +14,7 @@ AI 엔진인 Google Dialogflow를 사용해 맛집 추천 서비스를 챗봇으
 ### 역할
 JISOONLEE
 + UI
++ Design Dialogflow
 + AWS Server
 + Create MongoDB Data Using Crawling
 
@@ -22,6 +23,7 @@ Ji-Min Jeong
 + Getting/Seding Data by Ajax in Spring Boot
 + Getting/Seding Data with Dialogflow in Spring Boot
 + Access MongoDB from Spring Boot Using JPA
++ Design Dialogflow
 
 HongHong0715
 + Design Dialogflow
@@ -34,4 +36,5 @@ Kim Hyo Rin
 
 Park Ha Yeon
 + Session
++ Design Dialogflow
 + Access MongoDB from Spring Boot Application
